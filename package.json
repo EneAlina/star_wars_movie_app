@@ -1,0 +1,16 @@
+{
+  "name": "site_yt",
+  "version": "1.0.0",
+  "description": "Un site de inceput ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alina Ene",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {}
+}
